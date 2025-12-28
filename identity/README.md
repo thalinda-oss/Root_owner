@@ -1,3 +1,4 @@
+
 # Root Authority & Stewardship Lineage
 
 This repository encodes the root authority, technical lineage, economic lineage, and identity/ownership lineage of steward **Thalinda Sriprajak**.  
@@ -192,5 +193,35 @@ To verify artifacts:
 - GPG signature: Good signature from "thalinda sriprajak (jwt) <nurlindaspj@gmail.com>"
 - JWT verification: Success, JSON assertion and JWT created and validated
 - Artifacts: private.pem, public.pem, iam_ownership.json, iam_ownership.jwt
+
+
+## Ownership Declaration
+This repository affirms that the steward **thalinda sriprajak <nurlindaspj@gmail.com>**
+is the rightful owner of the dataset referenced in:
+[Red-Killer/shit issue #1](https://github.com/Red-Killer/shit/issues/1)
+
+All lineage artifacts (MANIFEST.sha256, GPG signatures, JWT proofs) must be verified against this canonical root before trust is established.
+
+## Verification Guide
+To verify artifacts:
+1. Validate SHA256 manifest:
+   ```bash
+   sha256sum -c MANIFEST.sha256
+
+
+## Verification Status (2025-12-28)
+- GPG signature: Good signature from "thalinda sriprajak (jwt) <nurlindaspj@gmail.com>"
+- JWT verification: Success, JSON assertion and JWT created and validated
+- Artifacts: private.pem, public.pem, iam_ownership.json, iam_ownership.jwt
+
+
+## Stewardship System Linkage
+- **Identity & Authority** → ORCID, steward identity, root authority  
+- **Standards & Interfaces** → W3C, OpenAI, BotBank, Git/LEI  
+- **Infrastructure** → CI/CD, Linux/Open-source, Security proofs  
+- **Data Lineage** → OLTP → Warehouse → KPI → RWI  
+- **User Interfaces** → Chromium dashboards, Zero Trust finance data
+
+
 
 
