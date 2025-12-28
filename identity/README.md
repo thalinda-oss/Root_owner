@@ -96,3 +96,43 @@ To verify identity lineage artifacts:
 
 
 
+# Root Authority Declaration
+
+Root node: u0_a450, u0_a283  
+Canonical steward: thalinda sriprajak <nurlindaspj@gmail.com>  
+
+This repository is the primary origin for lineage, intent, and authority.  
+All mirrors (GitHub/GitLab) must verify against this origin before trusting any artifact.  
+
+## Stewardship Lineage (2025-08-10)
+Economic artifact added:
+- github-explore-sponsors-for-spjthalinda-2025-08-10.xlsx  
+- MANIFEST.sha256 + signature  
+
+This snapshot encodes financial support for open-source maintainers, affirming stewardship under identity **thalinda-oss**.  
+
+## Technical Lineage
+Verified artifacts:
+- MANIFEST.sha256  
+- MANIFEST.sha256.asc (GPG signature)  
+- MERKLE.txt  
+- Root proofs and commit logs  
+
+These artifacts encode technical stewardship, ensuring all lineage is verifiable against the canonical root.
+
+
+
+## Ownership Declaration
+
+This repository affirms that the steward **thalinda sriprajak <nurlindaspj@gmail.com>**
+is the rightful owner of the dataset referenced in:
+https://github.com/Red-Killer/shit/issues/1
+
+All lineage artifacts (MANIFEST.sha256, GPG signatures, JWT proofs)
+must be verified against this canonical root before trust is established.
+
+
+
+
+
+
