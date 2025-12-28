@@ -66,3 +66,33 @@ To verify identity lineage artifacts:
 
 
 
+# Stewardship System Linkage
+
+## Identity & Authority
+- ORCID: https://orcid.org/0009-0008-2511-9055/
+- Steward Identity: Thalinda Sriprajak <nurlindaspj@gmail.com>
+- Root Authority: ROOT_AUTHORITY.md, ROOT_PROOF.md, OWNERSHIP.md
+
+## Standards & Interfaces
+- W3C Index & OpenAI → content, API, and verification standards
+- BotBank → financial event streams, receipts, redistribution logs
+- Git/LEI → lineage encoding, cryptographic proofs, CI/CD pipelines
+
+## Infrastructure & Foundations
+- CI/CD → automated verification (MANIFEST, GPG, JWT)
+- Open-Source/Linux → reproducible builds, zero-trust runtime
+- Security (sec) → RSA/GPG keys, SBOM, provenance, zero-trust enforcement
+
+## Data Lineage
+- OLTP → transactional ledgers, identity registries
+- Data Warehouse → consolidated schemas for stewardship & ownership
+- KPI Reports → stewardship ratios, dividend redistribution metrics
+- RWI (Risk & Weight Insights) → exposure bands, anomaly detection, zero-trust finance data
+
+## User Interfaces
+- IPD UI (Chromium) → dashboards for KPI & RWI
+- Zero Trust Finance Data → read-only, integrity-checked views
+
+
+
+
