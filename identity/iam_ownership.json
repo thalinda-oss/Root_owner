@@ -1,0 +1,52 @@
+{
+  "type": "IAM_Ownership_Assertion",
+  "version": "1.0",
+  "resourceOwner": {
+    "name": "Thalinda Sriprajak",
+    "role": "Master / Owner IAM Global",
+    "accountId": "AC2218918",
+    "authorizedEmails": [
+      "neeyaspj10@gmail.com",
+      "nurlindaspj@gmail.com"
+    ],
+    "authorizedPhones": [
+      "+6645577463",
+      "+66838583719"
+    ]
+  },
+  "platforms": {
+    "ClickHouse": {
+      "orgId": "0eab1ba9-615a-481a-9324-38137bca3ba5"
+    },
+    "AWS": {
+      "iamRole": "arn:aws:iam::050397684277:role/CH-S3-goldaws-ci-36-ew1-cf-Role"
+    },
+    "GCP": {
+      "projects": [
+        "992034348021"
+      ]
+    },
+    "Microsoft": {
+      "adminAccounts": [
+        "be6f6c08-7151-43b1-9577-ea398f90f\u2026"
+      ],
+      "verified": true
+    },
+    "CentralBank": {
+      "verified": true
+    },
+    "OpenSource": {
+      "scope": "All projects managed by Thalinda Sriprakjak across GitHub, GitLab, Bitbucket, and other repositories",
+      "accessRights": {
+        "Master / Owner": "full admin",
+        "AuthorizedTeamMembers": "read/write/execute as assigned"
+      }
+    }
+  },
+  "authorizationServer": "https://accounts.google.com",
+  "verifiedSubject": "108273645182736451827",
+  "scope": [
+    "iam.global.owner"
+  ],
+  "announcement": "Identity verification for Microsoft IAM and Central Bank IAM completed successfully for both authorized emails."
+}
