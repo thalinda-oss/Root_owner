@@ -225,3 +225,18 @@ To verify artifacts:
 
 
 
+## Verification Guide
+To verify artifacts:
+1. Validate SHA256 manifest:
+   ```bash
+   sha256sum -c MANIFEST.sha256
+
+## Stewardship System Linkage
+- **Identity & Authority** → ORCID, steward identity, root authority  
+- **Standards & Interfaces** → W3C, OpenAI, BotBank, Git/LEI  
+- **Infrastructure** → CI/CD, Linux/Open-source, Security proofs  
+- **Data Lineage** → OLTP → Warehouse → KPI → RWI  
+- **User Interfaces** → Chromium dashboards, Zero Trust finance data
+
+
+
