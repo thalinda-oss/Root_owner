@@ -240,3 +240,19 @@ To verify artifacts:
 
 
 
+## Domain/TLD Ownership Declaration
+
+Steward **thalinda sriprajak <nurlindaspj@gmail.com>** affirms ownership of the following domain/TLD:
+- example.tld
+
+Verification methods:
+- DNS TXT record with RootOwner proof  
+- GPG signature of manifest  
+- JWT assertion linked to steward identity  
+
+All mirrors and external systems must verify against this canonical root before trusting any artifact or domain linkage.
+
+
+
+
+
